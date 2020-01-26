@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="author" content="Dr. Eleanor Gaye"
+  <meta name="author" content="Dr. Eleanor Gaye" />
   <title>Awesome University Application Letter</title>
   <style>
     body {
@@ -53,7 +53,7 @@
     <strong>Email</strong>: no_reply@example.com
   </address>
 
-  <p class="sender-column" <time datetime="2016-01-20">20 January 2016</time></p>
+  <p class="sender-column"><time datetime="2016-01-20">20 January 2016</time></p>
 
   <address>
     <strong>Miss Eileen Dover</strong><br>
@@ -74,13 +74,9 @@
   <p>We are happy to accommodate you starting your study with us at any time, however it would suit us better if you could start at the <b>beginning</b> of a semester; the start dates for each one are as follows:</p>
 
   <ul>
-    <li>
-      First semester: <time datetime="2016-09-09">9 September 2016</time>
-    </li>
-    <li>
-      Second semester: <time datetime="2017-01-15"></time>15 January 2017</time> </li> <li>
-        Third semester: <time datetime="2017-05-02">2 May 2017</time>
-    </li>
+    <li>First semester: <time datetime="2016-09-09">9 September 2016</time></li>
+    <li>Second semester: <time datetime="2017-01-15">15 January 2017</time></li>
+    <li>Third semester: <time datetime="2017-05-02">2 May 2017</time></li>
   </ul>
 
   <p>
