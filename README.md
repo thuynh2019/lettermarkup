@@ -1,6 +1,8 @@
 # lettermarkup
+
 <!DOCTYPE html>
-<html lang="en">
+
+<html lang="en-US">
 
 <head>
   <meta charset="utf-8">
@@ -39,6 +41,7 @@
     address {
       line-height: 1.5;
     }
+
   </style>
 </head>
 
