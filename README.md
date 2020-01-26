@@ -6,7 +6,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="author" content="Dr. Eleanor Gaye" />
+  <meta name="author" content="Dr. Eleanor Gaye">
   <title>Awesome University Application Letter</title>
   <style>
     body {
@@ -26,19 +26,11 @@
       font-size: 1.3em;
     }
 
-    p,
-    ul,
-    ol,
-    dl,
-    address {
+    p,ul,ol,dl,address {
       font-size: 1.1em;
     }
 
-    p,
-    li,
-    dd,
-    dt,
-    address {
+    p,li,dd,dt,address {
       line-height: 1.5;
     }
 
