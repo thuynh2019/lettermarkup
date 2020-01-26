@@ -3,7 +3,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="author" content="Dr. Eleanor Gaye">
-  <title>Awesome University Application Letter</title>
   <link rel="stylesheet" href="stylesheet.css">
 </head>
 
